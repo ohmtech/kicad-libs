@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CS42438
+D 108 dB, 192 kHz 6-In, 8-Out TDM CODEC
+$ENDCMP
+#
+$CMP WM8731
+D Portable Internet Audio CODEC with Headphone Driver and Programmable Sample Rates
+$ENDCMP
+#
+#End Doc Library

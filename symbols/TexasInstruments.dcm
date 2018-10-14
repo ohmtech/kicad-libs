@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM3168A
+D PCM3168A24-Bit, 96-kHz/192-kHz, 6-In/8-Out Audio Codec With Differential Input/Output
+K Audio Codec Differential
+$ENDCMP
+#
+$CMP PCM5102A
+D PCM510xA 2.1VRMS, 112/106/100dB Audio Stereo DAC with PLL and 32-bit, 384 kHz PCM Interface
+$ENDCMP
+#
+$CMP PLL1707
+D 3.3􏰀V Dual PLL Multiclock Generator
+K PLL
+$ENDCMP
+#
+#End Doc Library
