@@ -4,6 +4,11 @@ $CMP CS42438
 D 108 dB, 192 kHz 6-In, 8-Out TDM CODEC
 $ENDCMP
 #
+$CMP CS5368
+D 114 dB, 192 kHz, 8-Channel A/D Converter
+F https://statics.cirrus.com/pubs/proDatasheet/CS5368_F5.pdf
+$ENDCMP
+#
 $CMP WM8731
 D Portable Internet Audio CODEC with Headphone Driver and Programmable Sample Rates
 $ENDCMP
